@@ -1,6 +1,6 @@
 Usernames = {
-    "your roblox user here",
-    "your 2nd user here",
+    "your username",
+    "username mo ",
     "3rd user",
     -- Add more users below if you want to
     -- "user4",
